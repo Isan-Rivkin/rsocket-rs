@@ -1,0 +1,13 @@
+[package]
+name = "rsocket-rs"
+version = "0.1.0"
+authors = ["Isan-Rivkin <isanrivkin@gmail.com>"]
+edition = "2018"
+description = "RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron. in Rust"
+keywords = ["protocol", "distributed"]
+categories = ["network-programming", "asynchronous"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Isan-Rivkin/rsocket-rs"
+homepage = "https://github.com/Isan-Rivkin/rsocket-rs"
+[dependencies]
